@@ -5,7 +5,7 @@
 | Level | Grades | Subjects |
 |---|---|---|
 | 🌈 Primary | 1–6 | English, Maths, Science |
-| 🎓 Secondary | 7–10 | English, Biology, Chemistry, Physics, Algebra, Geometry, Trigonometry, Statistics |
+| 🎓 Secondary | 7–10 | English, Biology, Chemistry, Physics, World History, Algebra, Geometry, Trigonometry, Statistics |
 
 - 📷 Webcam games: students answer with their hands (hand tracking runs in the browser).
 - 🏆 Team games, quizzes, word games and mini experiments.
